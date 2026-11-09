@@ -1,43 +1,43 @@
 {
   "channel": "stable",
-  "version": "0.1.4",
-  "build": 73,
-  "published": "2026-11-09T16:55:02Z",
-  "notes_url": "https://github.com/stoynov/sendrift-releases/releases/tag/v0.1.4",
+  "version": "0.1.5",
+  "build": 74,
+  "published": "2026-11-09T19:03:49Z",
+  "notes_url": "https://github.com/stoynov/sendrift-releases/releases/tag/v0.1.5",
   "min_os": {
     "macos": "15.0"
   },
   "macos_signing": "notarized",
   "artifacts": {
     "linux-x86_64-deb": {
-      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.4/sendrift_0.1.4_amd64.deb",
-      "size": 26446208,
-      "sha256": "d81beba479b5b45b767996445d5157e2f8ec3a8a89940a6acff4764ea8540597"
+      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.5/sendrift_0.1.5_amd64.deb",
+      "size": 26456372,
+      "sha256": "a06f778317894122947cd1f9a375fead8aa8e4369084c4c0d49cea45f0d306f1"
     },
     "linux-x86_64-rpm": {
-      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.4/sendrift-0.1.4-1.x86_64.rpm",
-      "size": 39549674,
-      "sha256": "bd089bdbf723ca7bee1d186264d81429a79519f3db25904764ccbe014c17be71"
+      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.5/sendrift-0.1.5-1.x86_64.rpm",
+      "size": 39572865,
+      "sha256": "ceb05cecab3ea470a98b0584306a207043b391028667f80a329d41bf620d1b3d"
     },
     "linux-x86_64-tar": {
-      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.4/sendrift-0.1.4-linux-x86_64.tar.gz",
-      "size": 39798764,
-      "sha256": "6dc12f67230dd894951b8bbdb7c8a1317a20fed93ad4b9adeb1a1ff1e88d3164"
+      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.5/sendrift-0.1.5-linux-x86_64.tar.gz",
+      "size": 39823451,
+      "sha256": "3a2cb4a92463e200bc5f25f71823f51d94257923eb8b66e8cad1b5332d92984f"
     },
     "macos-arm64-dmg": {
-      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.4/Sendrift-0.1.4-macos-arm64.dmg",
-      "size": 21160735,
-      "sha256": "7f9f4cb2f310bae2887edb2f9e2f8afa465bf7be09f75e4e1253fdfc13bd89e4"
+      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.5/Sendrift-0.1.5-macos-arm64.dmg",
+      "size": 21197659,
+      "sha256": "a7b0c7b179529d0dadf7b945b6f83ce8458f0aee917842d57126ba16737ed31e"
     },
     "macos-arm64-zip": {
-      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.4/Sendrift-0.1.4-macos-arm64.zip",
-      "size": 18425588,
-      "sha256": "738193d983f5e5e68f2e898144c246e81fce647829d749d74043d7d8e923df0d"
+      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.5/Sendrift-0.1.5-macos-arm64.zip",
+      "size": 18459323,
+      "sha256": "b0ecfd3b8f6b6b9ad9aad058175a3aaa8433558120c891614fd37ea687ffce10"
     },
     "windows-x86_64-zip": {
-      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.4/Sendrift-0.1.4-windows-x86_64.zip",
-      "size": 27665348,
-      "sha256": "a394b5540c3c5a692dc1ebbc5bfcad45867229cd4b3c1841f81430368bf56db2"
+      "url": "https://github.com/stoynov/sendrift-releases/releases/download/v0.1.5/Sendrift-0.1.5-windows-x86_64.zip",
+      "size": 27667232,
+      "sha256": "7ac390fb6318b56bf046474d71a14c481e0064f750ecf4d0f819b3d3f2b46698"
     }
   }
 }
